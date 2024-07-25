@@ -1,0 +1,24 @@
+<UTF-8>
+<Config>
+  <Saldo>
+    LIMITE DE CUENTA: {
+      <if=$Metodo de pago: $NULL> {
+    MINIMO: -20.00$
+    MAXIMO: 500.00$
+      } else {
+    MINIMO: -50.00$
+    MAXIMO: 7540.00$
+      }
+    }
+
+  SERVICIO DE CONEXION: {
+    PORT: 5416
+    ENTRADA: 0192
+    SALIDA: 1461
+    TUNEL: 0000
+    COMFIRMACION: #1009
+  }
+  <Saldo/>
+<Config/>
+
+### ESTA CUENTA SE ENCUENTRA DESACTUALIZADA
