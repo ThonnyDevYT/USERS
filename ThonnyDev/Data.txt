@@ -1,3 +1,3 @@
-ADMINDEV
-AnthonyR20
-1220
+ADMINDEV //ID DE USUARIO
+AnthonyR20 //contraseña
+1220 // codigo de seguridad
