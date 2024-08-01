@@ -1,0 +1,60 @@
+using System;
+using System.Collections.Generic;
+
+namespace SecurityManager
+{
+    public class SecurityCodeGenerator
+    {
+        private Dictionary<string, string> userSecurityCodes;
+
+        public SecurityCodeGenerator()
+        {
+            userSecurityCodes = new Dictionary<string, string>();
+        }
+
+        public string GenerateSecurityCode(string username)
+        {
+            string securityCode = Guid.NewGuid().ToString();
+            userSecurityCodes[username] = securityCode;
+            return securityCode;
+        }
+
+        public bool ValidateSecurityCode(string username, string securityCode)
+        {
+            return userSecurityCodes.ContainsKey(username) && userSecurityCodes[username] == securityCode;
+        }
+    }
+
+    public class GameTesterManager
+    {
+        private HashSet<string> gameTesters;
+
+        public GameTesterManager()
+        {
+            gameTesters = new HashSet<string>();
+        }
+
+        public void GrantGameTesterPrivileges(string username)
+        {
+            if (!gameTesters.Contains(username))
+            {
+                gameTesters.Add(username);
+                Console.WriteLine($"Granted Game Tester privileges to {username}.");
+            }
+        }
+
+        public void RevokeGameTesterPrivileges(string username)
+        {
+            if (gameTesters.Contains(username))
+            {
+                gameTesters.Remove(username);
+                Console.WriteLine($"Revoked Game Tester privileges from {username}.");
+            }
+        }
+
+        public bool IsGameTester(string username)
+        {
+            return gameTesters.Contains(username);
+        }
+    }
+}
