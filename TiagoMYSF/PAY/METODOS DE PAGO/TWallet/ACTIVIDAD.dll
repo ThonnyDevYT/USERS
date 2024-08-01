@@ -1,0 +1,41 @@
+using System;
+using System.IO;
+
+namespace UserActionLogger
+{
+    public class UserActionSimulator
+    {
+        private string _logFilePath;
+
+        public UserActionSimulator()
+        {
+            _logFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "user_actions.log");
+        }
+
+        public void Connect()
+        {
+            LogAction("User connected.");
+            Console.WriteLine("Connected to the system.");
+        }
+
+        public void Disconnect()
+        {
+            LogAction("User disconnected.");
+            Console.WriteLine("Disconnected from the system.");
+        }
+
+        public void PerformAction(string action)
+        {
+            LogAction($"User performed action: {action}");
+            Console.WriteLine($"Action performed: {action}");
+        }
+
+        private void LogAction(string message)
+        {
+            using (StreamWriter writer = new StreamWriter(_logFilePath, true))
+            {
+                writer.WriteLine($"{DateTime.Now}: {message}");
+            }
+        }
+    }
+}
