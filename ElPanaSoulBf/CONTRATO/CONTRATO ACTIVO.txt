@@ -1,0 +1,92 @@
+1. Términos Generales y Compromisos
+
+1. Objeto del Contrato Este contrato establece los términos y condiciones bajo los cuales el/la usuario [ElPanaSoulBf] acepta prestar sus servicios como evaluador/a de videojuegos para TGames. El GameTester se compromete a participar en las pruebas de calidad, funcionalidad, rendimiento y jugabilidad de los videojuegos desarrollados o publicados por la Empresa.
+
+2. Duración del Contrato Este contrato tiene una duración inicial de [18] meses, con la posibilidad de renovación de mutuo acuerdo entre ambas partes. La relación contractual comenzará el [24 de noviembre del 2023] y podrá ser extendida o finalizada conforme a las disposiciones establecidas en este documento.
+
+3. Responsabilidades del GameTester El GameTester se compromete a cumplir con las siguientes obligaciones:
+
+a. Asistencia y Participación: El GameTester deberá asistir a todas las sesiones de pruebas programadas por la Empresa. Su participación activa y puntual es esencial para el correcto desempeño de las tareas asignadas.
+
+b. Confidencialidad: El GameTester deberá mantener en estricta confidencialidad toda la información relacionada con los videojuegos, las características técnicas y cualquier otro dato al que tenga acceso durante las pruebas. Queda prohibido divulgar información a terceros, así como compartir imágenes, videos o contenido relacionado con los juegos bajo prueba sin la autorización expresa de la Empresa.
+
+c. Reporte de Errores: El GameTester deberá reportar de manera detallada y precisa cualquier error, bug o problema que detecte durante las pruebas. Dichos reportes deberán ser entregados siguiendo los procedimientos indicados por la Empresa, asegurando que cada problema esté bien documentado para su análisis y resolución.
+
+d. Retroalimentación Constructiva: El GameTester también será responsable de proporcionar retroalimentación constructiva sobre la experiencia de usuario y jugabilidad, con el fin de mejorar la calidad del producto final.
+
+4. Herramientas y Recursos Proporcionados por la Empresa La Empresa se compromete a proporcionar al GameTester todas las herramientas, software, hardware y recursos necesarios para llevar a cabo las pruebas de los videojuegos. Estos recursos deberán ser utilizados únicamente para los fines del trabajo y deberán ser devueltos al final de la relación laboral.
+
+5. Régimen de Asistencia El GameTester está obligado a asistir a todas las sesiones de prueba programadas. En caso de inasistencia justificada, el GameTester deberá notificar a la Empresa con al menos [inserte tiempo] horas de anticipación. La Empresa se reserva el derecho de reorganizar las sesiones de prueba para adaptarse a los tiempos del GameTester siempre que esto no interfiera con los plazos de entrega del proyecto.
+
+----------
+
+2. Derechos, Condiciones Laborales y Procedimiento de Despido
+
+6. Remuneración La Empresa compensará al GameTester por los servicios prestados bajo las siguientes condiciones:
+
+a. Pago por Sesión de Prueba: El GameTester recibirá un pago de [25% Adicional] por cada sesión de prueba completada satisfactoriamente. El monto será abonado de manera quincenal a través del método de pago acordado entre ambas partes.
+
+b. Bonificaciones: La Empresa podrá otorgar bonificaciones adicionales basadas en el rendimiento del GameTester, la calidad de sus reportes, y la cantidad de sesiones completadas. Las bonificaciones estarán sujetas a evaluación discrecional por parte de la Empresa.
+
+c. Compensación por Gastos: En el caso de que el GameTester incurra en gastos necesarios para la realización de sus funciones, como la compra de software específico o equipos requeridos por la Empresa, dichos gastos serán reembolsados previa presentación de los comprobantes correspondientes y aprobación por parte de la Empresa.
+
+7. Jornada Laboral y Flexibilidad El trabajo como GameTester implica horarios flexibles, sin embargo, se espera que el GameTester cumpla con el número de horas y sesiones programadas. La Empresa brindará flexibilidad en la programación de las sesiones de prueba siempre y cuando esto no interfiera con los plazos del proyecto. El GameTester podrá solicitar ajustes en su horario en casos excepcionales, debiendo coordinar previamente con la Empresa.
+
+8. Derechos del GameTester: 
+
+  a. Derecho a Capacitación: El GameTester tiene derecho a recibir capacitación continua por parte de la Empresa para mejorar sus habilidades y conocimientos en el proceso de evaluación de videojuegos.
+
+  b. Derecho a Evaluación Justa: El rendimiento del GameTester será evaluado periódicamente por la Empresa, y en caso de que se detecten áreas de mejora, se brindará retroalimentación constructiva para apoyar su desarrollo.
+
+  c. Derecho a la Protección de Datos: La Empresa se compromete a proteger toda la información personal y profesional del GameTester conforme a la legislación vigente en materia de protección de datos.
+
+9. Condiciones para la Terminación del Contrato El contrato podrá ser terminado por cualquiera de las partes bajo las siguientes condiciones:
+
+  a. Renuncia Voluntaria: El GameTester podrá renunciar a su puesto notificando a la Empresa con [1] día de anticipación. Durante este período, el GameTester deberá cumplir con todas las sesiones de prueba programadas, a menos que ambas partes acuerden lo contrario.
+
+  b. Despido Justificado: La Empresa podrá rescindir este contrato en caso de que el GameTester no cumpla con sus responsabilidades, específicamente si incurre en alguna de las siguientes faltas:
+
+    i. Inasistencia Recurrente: El GameTester será sujeto a despido si falta a [5] sesiones de prueba consecutivas o si no asiste a más del [75%] de las sesiones programadas durante un período determinado sin justificación válida.
+  
+    ii. Falta Grave de Confidencialidad: Cualquier violación a la cláusula de confidencialidad será motivo de despido inmediato y podrá resultar en acciones legales contra el GameTester.
+  
+    iii. Bajo Rendimiento Continuo: Si el rendimiento del GameTester es consistentemente bajo o si no se adhiere a los estándares de calidad requeridos, la Empresa podrá finalizar el contrato tras proporcionar advertencias y oportunidades de mejora.
+
+10. Procedimiento de Despido :
+
+  a. Advertencias Previas: Antes de proceder con el despido, la Empresa deberá notificar al GameTester sobre su incumplimiento en al menos dos ocasiones mediante advertencias formales. Estas advertencias deberán incluir detalles del incumplimiento y sugerencias para la corrección del comportamiento.
+
+  b. Aviso de Despido: En caso de que no haya mejoría después de las advertencias previas, la Empresa emitirá un aviso de despido con [15] días de anticipación, durante los cuales el GameTester podrá intentar rectificar su situación.
+
+  c. Despido Inmediato: En casos graves, como la violación de confidencialidad, la Empresa podrá proceder con el despido inmediato sin previo aviso ni posibilidad de rectificación.
+
+----------
+
+3. Disposiciones Finales, Resolución de Conflictos y Cláusulas Adicionales
+
+11. Resolución de Conflictos En caso de que surja alguna disputa o conflicto entre el GameTester y la Empresa, ambas partes se comprometen a resolver el asunto de manera amistosa y en buena fe. Los procedimientos para la resolución de conflictos serán los siguientes:
+
+  a. Negociación Directa: La primera opción será intentar resolver el conflicto mediante negociación directa entre ambas partes. Se dará un plazo de [10] días para llegar a un acuerdo satisfactorio para ambas partes.
+
+  b. Mediación: Si la negociación directa no resuelve el conflicto, ambas partes podrán optar por recurrir a un proceso de mediación. El mediador será una persona neutral, designada de mutuo acuerdo entre la Empresa y el GameTester. Los costos de la mediación serán compartidos por ambas partes.
+
+  c. Arbitraje: En caso de que la mediación no resuelva el conflicto, ambas partes podrán someter la disputa a un arbitraje vinculante de acuerdo con las leyes vigentes en el Gobierno del Gametester. El laudo arbitral será definitivo y obligatorio para ambas partes.
+
+12. Modificación del Contrato Cualquier modificación a los términos y condiciones establecidos en este contrato deberá realizarse por escrito y estar firmada por ambas partes. La Empresa se reserva el derecho de modificar ciertos aspectos del trabajo del GameTester, siempre y cuando dichos cambios no afecten significativamente las obligaciones o derechos del GameTester. Estas modificaciones serán notificadas al GameTester con al menos [5] días de antelación.
+
+13. Propiedad Intelectual El GameTester reconoce que cualquier información, idea o retroalimentación proporcionada durante el proceso de pruebas es propiedad exclusiva de la Empresa. La Empresa tendrá el derecho de utilizar, modificar o implementar cualquier sugerencia hecha por el GameTester sin obligación de compensación adicional, excepto la establecida en la cláusula de remuneración. El GameTester renuncia a cualquier reclamación de derechos de propiedad intelectual sobre los videojuegos o cualquier parte de estos que haya sido evaluada.
+
+14. Cláusula de No Competencia Durante la vigencia del presente contrato y por un período de [2 meses] después de su terminación, el GameTester se compromete a no trabajar directa o indirectamente para ninguna empresa competidora de TGames que desarrolle o publique videojuegos similares. Esta cláusula tiene como objetivo proteger los intereses de la Empresa y su propiedad intelectual. Sin embargo, dicha cláusula no será aplicable si la terminación del contrato fue provocada unilateralmente por la Empresa sin causa justificada.
+
+15. Cláusula de No Exclusividad Este contrato no implica una relación de exclusividad entre el GameTester y la Empresa. El GameTester tiene el derecho de prestar sus servicios a otras compañías, siempre que dichas actividades no interfieran con sus responsabilidades hacia la Empresa, ni representen un conflicto de intereses o violen la cláusula de confidencialidad y no competencia establecida en este contrato.
+
+16. Fuerza Mayor Ninguna de las partes será responsable por incumplimientos en las obligaciones contractuales si dicho incumplimiento es resultado de un evento de fuerza mayor, incluyendo pero no limitándose a desastres naturales, guerras, disturbios, actos gubernamentales, pandemias u otras circunstancias fuera del control razonable de las partes. En tales casos, la parte afectada deberá notificar a la otra lo antes posible y se buscará reprogramar las pruebas o encontrar una solución que minimice el impacto de dichos eventos.
+
+17. Ley Aplicable y Jurisdicción Este contrato se regirá por las leyes del Gobierno del Gametester, y cualquier conflicto que no pueda resolverse mediante los procedimientos de resolución de conflictos anteriormente descritos será sometido a la jurisdicción de los tribunales competentes de dicha jurisdicción.
+
+18. Aceptación del Contrato El presente contrato representa la totalidad del acuerdo entre el GameTester y la Empresa. Ambas partes, al encriptar los datos de tipo binario en el servicio de cuentas de TGames, aceptan y acuerdan cumplir con las disposiciones contenidas en él. Cualquier acuerdo previo, verbal o escrito, queda sin efecto al momento de la encriptacion de los datos binarios del compromiso de este contrato.
+
+[DATOS ENCIPTADOS CON SELLOS DE SEGURIDAD PARA ACCEDER A ESTOS DATOS CONTACTE A TGAMES Y HAGA TODOS LOS DATOS NECESARIOS PARA DESENCRIPTAR LOS DATOS BINARIOS]
+[ESTO SE REALIZARA AL MOMENTO DE QUERER ELIMINAR ESTE CONTRATO]
+
+<TGAMES>
