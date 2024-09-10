@@ -1,0 +1,32 @@
+<UTF-8>
+<Config>
+  <Saldo>
+    LIMITE DE CUENTA: {
+      <if=$Metodo de pago: $NULL> {
+    MINIMO: -80.70$
+    MAXIMO: 700.20$
+      } else {
+    MINIMO: -200.00$
+    MAXIMO: 9540.00$
+      }
+    }
+
+  SERVICIO DE CONEXION: {
+    PORT: 5416
+    ENTRADA: 0122
+    SALIDA: 1469
+    TUNEL: 0021
+    COMFIRMACION: #4587
+  }
+  <Saldo/>
+<Config/>
+
+<server>
+  <def name="SEND" type="SEND_DATA_VALUE" if="ONLY_ENTRACE_DATA"/>
+
+  <SEND>
+    <money value=Saldo[0] if="NOT_NULL_VALUE"/>
+  <SEND/>
+<server/>
+
+### ESTA CUENTA SE ACTUALIZA DE FORMA AUTOMATICA POR TGAMES
