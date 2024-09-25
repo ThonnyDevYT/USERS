@@ -2,3 +2,13 @@ Lanzamiento de "TLoginApp" el dia 27 de Septiembre del 2024
 Previsualizacion de cancion "DeathMatch" el dia 27 de Septiembre del 2024
 Lanzamiento de episodio #3 de Ending Corruption Chapter 1: Dark Road Story
 Disponible para jugar Ending Corruption V2.0. Disponible para Mobile(Android) y Computadora(Windows)
+Actualizacion de Ending Engine a su version 4.0. Mas informacion en el servidor de discord de Ending Corruption
+Unete al servidor de Discord de Ending Corrution. Disponible en la biografia de mi canal de Youtube "TGames"
+Sitemas de facturacion de servicios de TGames estaran activos a partir del 15 de agosto del 2024
+Recuerda cumplir con los terminos y condiciones de TGames y Ending Corrution
+Los trabajadores de TGames pueden utilizar el Boton de "Contrato" para administrar tu contrato y su estado con TGames actualmente
+Esta aplicacion no puede editar ningun dato solo puede cargarlos
+Esta aplicacion esta en fase Beta. Puedes reportar cualquier problema
+Recuerda estar atendo a cualquier noticia de TGames y sus juegos
+Esta aplicacion es ligera ya que utiliza como base "HaxeFlixel"
+Esta aplicacion requiere de concexion a internet
