@@ -1,5 +1,5 @@
-Lanzamiento de "TLoginApp" el dia 27 de Septiembre del 2024
-Previsualizacion de cancion "DeathMatch" el dia 27 de Septiembre del 2024
+Lanzamiento de "TLoginApp" el dia 4 de Octubre del 2024
+Previsualizacion de cancion "DEATHMATCH" el dia 4 de Octubre del 2024
 Lanzamiento de episodio #3 de Ending Corruption Chapter 1: Dark Road Story
 Disponible para jugar Ending Corruption V2.0. Disponible para Mobile(Android) y Computadora(Windows)
 Actualizacion de Ending Engine a su version 4.0. Mas informacion en el servidor de discord de Ending Corruption
@@ -11,4 +11,6 @@ Esta aplicacion no puede editar ningun dato solo puede cargarlos
 Esta aplicacion esta en fase Beta. Puedes reportar cualquier problema
 Recuerda estar atendo a cualquier noticia de TGames y sus juegos
 Esta aplicacion es ligera ya que utiliza como base "HaxeFlixel"
-Esta aplicacion requiere de concexion a internet
+Esta aplicacion requiere de conexion a internet
+Ending Corruption: Dark Rosd esta creado con una base de PSYCH engine v0.6.3
+Las cuentas de TGames tienen tantas funciones que no es bueno jugar ningún juego de TGames sin ella.
